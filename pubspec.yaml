@@ -14,7 +14,7 @@ dependencies:
     sdk: flutter
   plugin_platform_interface: ^2.0.2
   permission_handler: ^11.4.0
-  dio: ^4.0.6
+  dio: ^5.10.0
   mime_type: ^1.0.0
 
 dev_dependencies:
